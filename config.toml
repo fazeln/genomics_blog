@@ -1,0 +1,187 @@
+baseurl = "/"
+title = "MENA Omics Medicine"
+theme = "hugo-universal-theme"
+languageCode = "en-us"
+# Site language. Available translations in the theme's `/i18n` directory.
+defaultContentLanguage = "en"
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = ""
+
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+# Define the number of posts per page
+paginate = 10
+
+[menu]
+
+# Main menu
+
+[[menu.main]]
+    identifier="home"
+    name = "Home"
+    url  = "/"
+    weight = 1
+
+[[menu.main]]
+    identifier="blog"
+    name = "Post"
+    url  = "/blog/"
+    weight = 2
+
+[[menu.main]]
+    identifier = "faq"
+    name = "Resources"
+    url  = "/resources/"
+    weight = 3
+
+[[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url  = "/contact/"
+    weight = 4
+    
+[[menu.main]]   
+identifier="about"
+    name = "About"
+    url  = "/About/"
+    weight = 5
+
+# Top bar social links menu
+
+[[menu.topbar]]
+    weight = 1
+    name = "Linkedin"
+    url = "https://www.linkedin.com/in/esmat-fazel-najafabadi-04b14553/?originalSubdomain=au"
+    pre = "<i class='fab fa-2x fa-linkedin'></i>"
+
+[[menu.topbar]]
+    weight = 2
+    name = "Publons"
+    url = "https://publons.com/researcher/3290762/esmat-fazel-najafabadi/"
+    pre = "<i class='fas fa-2x fa-file-alt'></i>"
+#[[menu.topbar]]
+#    weight = 3
+#    name = "eProfile"
+#    url = "https://shib.chalkandwire.com/ep2_uq/QuickPreview.aspx?cus=402&pageID=796454&urlID=4042535&uu=CMP/mJu57AkNlgFmMc7fHUOGzJkmkzL7/blfmb54Z08wvacjOdwvmyq1Q==q~qw//hY443fgB2xbrG9Dfx5g=="
+#    pre = "<i class='fas fa-2x fa-id-badge'></i>"
+
+[[menu.topbar]]
+    weight = 4
+    name = "Email"
+    url = "mailto:menaome@protonmail.com"
+    pre = "<i class='fas fa-2x fa-envelope'></i>"
+
+[params]
+    viewMorepostLink = "/blog/"
+    author = "esmfazel"
+    defaultKeywords = ["Omics Medicine", "MENA", "Collaboration"]
+    mainSections = ["blog"]
+    defaultDescription = "Dedicated to bring collaboration for patients' benefit"
+
+    # Social media
+    facebook_site = "" # the Facebook handle of your site ('https://www.facebook.com/HANDLE')
+    twitter_site = "GoHugoIO" # the Twitter handle of your site (without the '@')
+    default_sharing_image = "img/sharing-default.png"
+
+    # Google Maps API key (if not set will default to not passing a key.)
+   # googleMapsApiKey = "AIzaSyCFhtWLJcE30xOAjcbSFi-0fnoVmQZPb1Y"
+
+    # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
+    style = "blue"
+
+    # Since this template is static, the contact form uses www.formspree.io as a
+    # proxy. The form makes a blog request to their servers to send the actual
+    # email. Visitors can send up to a 1000 emails each month for free.
+    #
+    # What you need to do for the setup?
+    #
+    # - set your email address under 'email' below
+    # - upload the generated site to your server
+    # - send a dummy email yourself to confirm your account
+    # - click the confirm link in the email from www.formspree.io
+    # - you're done. Happy mailing!
+    #
+    # Enable the contact form by entering your Formspree.io email
+    email = "menaome@protonmail.com"
+    contact_form_ajax = false
+
+    about_me = "<p>My Passion for Human Genetics and MENA .</p>"
+    copyright = "Copyright (c) 2019, MENA Omics Medicine; all rights reserved."
+
+    # Format dates with Go's time formatting
+    date_format = "January 2, 2006"
+
+    logo = "img/logo.png"
+    logo_small = "img/logo-small.png"
+    #address = """<p><strong>Universal Ltd.</strong>
+    #    <br>13/25 New Avenue
+    #    <br>Newtown upon River
+    #    <br>45Y 73J
+    #    <br>England
+    #    <br>
+     #   <strong>Great Britain</strong>
+   #   </p>
+   #   """
+  #  latitude = ""
+   # longitude = ""
+
+[Permalinks]
+    blog = "/blog/:year/:month/:day/:slug/"
+
+# Enable or disable top bar with social icons
+[params.topbar]
+    enable = true
+    text = """<p class="hidden-sm hidden-xs">Contact me on efazeln@gmail.com.</p>
+      <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
+      <a href="#" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
+      </p>
+      """
+
+# Enable and disable widgets for the right sidebar
+[params.widgets]
+    categories = false
+    tags = false
+    search = false
+
+[params.carousel]
+    enable = true
+    # All carousel items are defined in their own files. You can find example items
+    # at 'exampleSite/data/carousel'.
+    # For more informtion take a look at the README.
+
+[params.features]
+    enable = false
+    # All features are defined in their own files. You can find example items
+    # at 'exampleSite/data/features'.
+    # For more informtion take a look at the README.
+
+[params.testimonials]
+    enable = false
+    # All testimonials are defined in their own files. You can find example items
+    # at 'exampleSite/data/testimonials'.
+    # For more informtion take a look at the README.
+    title = "Testimonials"
+    subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
+
+[params.see_more]
+    enable = false
+    icon = "far fa-file-alt"
+    title = "Do you want to see more?"
+    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
+    link_url = "#"
+    link_text = "Check other homepages"
+
+[params.clients]
+    enable = false
+    # All clients are defined in their own files. You can find example items
+    # at 'exampleSite/data/clients'.
+    # For more informtion take a look at the README.
+    title = "Our Clients"
+    subtitle = ""
+
+[params.recent_posts]
+    enable = true
+    title = "Recent posts"
+ #   subtitle = "litae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."

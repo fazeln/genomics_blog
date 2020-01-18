@@ -1,0 +1,36 @@
+---
+banner: img/banners/banner-1.png
+
+title: good collaboration
+date: '2019-12-21'
+slug: good-collaboration
+categories: []
+tags: []
+---
+Many institutes have  policies and guidelines for collborative studies. What other criteria research leaders consider when starting a collaborative studies? There are some criteria in a [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0163579) published by [Professor Michael Parker](https://www.ndph.ox.ac.uk/team/michael-parker) in 2016.
+
+Here a brief note is provided.
+
+---
+
+>##### 1- Engaging the collaborators in the study conception and the intellectual work.
+>
+>##### 2- Requesting for the information about the patients and high-quality samples according to a timetable.
+>
+>##### 3- Ensuring high quality research with excellent proposal.
+>
+>##### 4- Providing opportunities for the researchers in develping countries to visit the institute and receive training if needed.
+>
+>##### 5- Asking for team members about their motives and their policies for collaboration.
+>
+>##### 6- Providing opportunities for team members to voice their concerns about different aspects of the research.
+>
+>##### 7- Building confidence by involving all team members in research and updating them about the progress of the research and results.
+>
+>##### 8- Understanding their contribution in the research and acknowledging it.
+
+
+---
+
+![](/blog/2019-12-21-a-brief-note-about-good-collaboration_files/post-1.png)
+

@@ -1,0 +1,10 @@
+weight: 2
+title: "Human Genetics"
+description: >
+  <ul class="list-style-none">
+    <li>Rare Genetics disorders</li>
+    <li>Complex genetics disease</li>
+    <li>Cancer</li>
+    <li>Functional Genomics</li>
+  </ul>
+image: "img/carousel/muta-sp.png"
