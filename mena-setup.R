@@ -9,3 +9,11 @@ library(blogdown)
 blogdown::serve_site()
 #set global options like author and preferred file format
 #file.edit("~/.Rprofile")
+# in terminal
+git status
+git add --all
+git commit -m "first commit "
+git push
+##########################
+
+blogdown::serve_site()
