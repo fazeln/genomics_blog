@@ -4,9 +4,13 @@ description: About
 title: About
 ---
 
-MENA is home for countries with a high percentage of consangunous marriage and , consequently, has a high prevalence of rare genetic diseases. In many countries in MENA patients could not afford the genetic tests expenses and scientists do not have enough fund for their research. On the other hand, there are scientists in other countries having funds who do not have enough samples for their research. In addition, although Next Generation Sequencing resulted in sequencing human genome with lower price, it provides a handful of variants which their significance is unknown. To resolve if a variant is pathogen or not functional studies and additional patients with the same phenotype are needed which both can hardly be accomplished by a single group. Therefore, a collaborative research study by these scientists not only could lead to a diagnosis but also a treatment.
+Having worked in various capacities, developed excellent organizational and interpersonal skills. My name is Esmat Fazel. 
 
-MENA Omics MEdicine (MENAOME) is dedicated to establish collaboration between researchers in MENA countries and other countries in the world to help patients with genetic disease. 
+I studied genetics with a master thesis focused on human genetics. During my studies and through work experience I developed problem-solving, teamwork and creativity skills. I am proficient in R and constantly improving my skills in Python. During a short training program at the University of Queensland I started to learn Perl and obtained experience in using cluster. 
+
+I love to apply my knowledge to community. This blog is a result of my passion for genetics, research, learning, teaching and my community. I developed this blog using blogdown. The contents can be used freely for educating the patients and health providers. 
+If you like my writings, please support me by your donations.
+
 
 ---
 
