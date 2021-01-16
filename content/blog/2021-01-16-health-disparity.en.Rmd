@@ -7,7 +7,7 @@ categories: []
 tags: []
 ---
 
-Does genomics precision lead to more health disparity?
+###Does genomics precision lead to more health disparity?
 
 The genomics databases used for guideing precision medicine is populated with the Genomics
 information of people with European ancestry populations. Theses databases are used for biomarker discovery,
