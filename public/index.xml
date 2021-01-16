@@ -6,10 +6,21 @@
     <description>Recent content on Omics Medicine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 Jan 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Health disparity</title>
+      <link>/post/health-disparity/</link>
+      <pubDate>Sat, 16 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/health-disparity/</guid>
+      <description>Does genomics precision lead to more health disparity?
+The genomics databases used for guideing precision medicine is populated with the Genomics information of people with European ancestry populations. Theses databases are used for biomarker discovery, predicting the pathogenecity of a rare variant. It is widely accepted that theses databases have little use for genomics studies of minororities and other races.
+[Jyoti] (https://www.nature.com/articles/d41586-020-02678-7) draws our attention in how precision oncology can increase health disparities.</description>
+    </item>
     
     <item>
       <title>Genetic counseling in MENA</title>
