@@ -78,7 +78,7 @@ identifier="about"
     author = "esmfazel"
     defaultKeywords = ["Omics Medicine", "MENA", "Collaboration"]
     mainSections = ["blog"]
-    defaultDescription = "Dedicated to bring collaboration for patients' benefit"
+    defaultDescription = "Sharing my knowledge and opinion in my blogs"
 
     # Social media
     facebook_site = "" # the Facebook handle of your site ('https://www.facebook.com/HANDLE')
