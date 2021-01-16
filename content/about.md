@@ -15,6 +15,5 @@ If you like my writings, please support me by your donations.
 ---
 
 
-![](/./About_files/vision.png)
 
 
