@@ -14,7 +14,7 @@ information of people with European ancestry populations. Theses databases are u
 predicting the pathogenecity of a rare variant. It is widely accepted that theses databases have little use 
 for genomics studies of minororities and other races.
 
-[Jyoti] (https://www.nature.com/articles/d41586-020-02678-7) draws our attention in how precision oncology 
+[Jyoti](https://www.nature.com/articles/d41586-020-02678-7) draws our attention in how precision oncology 
 can increase health disparities. We cannot estimate how much the genomics technologies can influence health inequalities 
 because there are other factors including socioeconomics, health insuarance, location and education impacting 
 health inequalities within a community.
@@ -24,9 +24,9 @@ The genomics databases widely used in research are developed by high-income coun
 from individuals of European ancestry. These databases recorded little information about Asian or
 African nations. Other health pririties, lack of appropriate infrastructure and faninacial burdon are other reasons that 
 new genomics innovations is rarely used in middle- and low-income countries. The Human Genetics programme (HGN) developed by 
-[WHO] (https://www.who.int/genomics/en/)could help WHO Member States to reach their public health goals.
+[WHO](https://www.who.int/genomics/en/)could help WHO Member States to reach their public health goals.
 
-[Edwards] in a paper published in [Cell](https://www.cell.com/trends/genetics/fulltext/S0168-9525(20)30167-0) conciders that
+In a paper published in [Cell](https://www.cell.com/trends/genetics/fulltext/S0168-9525(20)30167-0), it is stated that
 disadvantaged people can benefit from personalized medicine with the emergence of the new tools and studying large cohorts.
 
 [The Genomics and Health Disparities Lecture Series](https://www.genome.gov/event-calendar/Genomics-Health-Disparities-Lecture-Series)
