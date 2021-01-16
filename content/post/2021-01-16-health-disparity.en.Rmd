@@ -1,0 +1,44 @@
+---
+title: Health disparity
+author: Esmat Fazel
+date: '2021-01-16'
+slug: health-disparity
+categories: []
+tags: []
+---
+
+Does genomics precision lead to more health disparity?
+
+The genomics databases used for guideing precision medicine is populated with the Genomics
+information of people with European ancestry populations. Theses databases are used for biomarker discovery,
+predicting the pathogenecity of a rare variant. It is widely accepted that theses databases have little use 
+for genomics studies of minororities and other races.
+
+[Jyoti] (https://www.nature.com/articles/d41586-020-02678-7) draws our attention in how precision oncology 
+can increase health disparities. We cannot estimate how much the genomics technologies can influence health inequalities 
+because there are other factors including socioeconomics, health insuarance, location and education impacting 
+health inequalities within a community.
+
+Genomic technologies also contributed in widenning the gap between low-, middle- and high-income countries. 
+The genomics databases widely used in research are developed by high-income countries that uses mostly samples 
+from individuals of European ancestry. These databases recorded little information about Asian or
+African nations. Other health pririties, lack of appropriate infrastructure and faninacial burdon are other reasons that 
+new genomics innovations is rarely used in middle- and low-income countries. The Human Genetics programme (HGN) developed by 
+[WHO] (https://www.who.int/genomics/en/)could help WHO Member States to reach their public health goals.
+
+[Edwards] in a paper published in [Cell](https://www.cell.com/trends/genetics/fulltext/S0168-9525(20)30167-0) conciders that
+disadvantaged people can benefit from personalized medicine with the emergence of the new tools and studying large cohorts.
+
+[The Genomics and Health Disparities Lecture Series](https://www.genome.gov/event-calendar/Genomics-Health-Disparities-Lecture-Series)
+has been running since 2015. The lectures addresses the genomics's impact on health disparity.
+
+I think genomics studies using large cohort including minorities would be beneficial to both science and health sciences.
+However, to encourage minorities to participate in the studies would be a challenge because of the public's mistrust to science. 
+Providing educational programs and transparency are keys to attract healthy doners. Whenever, it is possible participants
+should be reimburressed for the costs incurred. New technologies if lowers the cost of genomics sequencing are beneficial to 
+low- or middle-income countries so that they could creat their own population databases. However, it should be noticed that
+these databases can be abused in countires with a record of human right violations as they can be used to further
+discriminate against minorities. Therefore, a universal agency might be needed to regulate use of the genomics data.
+
+---
+![](/post/2021-01-16-health-disparity.en_files/vision.png)
