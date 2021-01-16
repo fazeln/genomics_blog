@@ -14,7 +14,8 @@ information of people with European ancestry populations. Theses databases are u
 predicting the pathogenecity of a rare variant. It is widely accepted that theses databases have little use 
 for genomics studies of minororities and other races.
 
-[Jyoti](https://www.nature.com/articles/d41586-020-02678-7) draws our attention in how precision oncology 
+[
+[Jyoti Madhusoodanan](https://www.nature.com/articles/d41586-020-02678-7) draws our attention in how precision oncology 
 can increase health disparities. We cannot estimate how much the genomics technologies can influence health inequalities 
 because there are other factors including socioeconomics, health insuarance, location and education impacting 
 health inequalities within a community.
@@ -41,4 +42,4 @@ these databases can be abused in countires with a record of human right violatio
 discriminate against minorities. Therefore, a universal agency might be needed to regulate use of the genomics data.
 
 ---
-![](/post/2021-01-16-health-disparity.en_files/vision.png)
+![](/blog/2021-01-16-health-disparity.en_files/vision.png)
