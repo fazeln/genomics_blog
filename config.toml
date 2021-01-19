@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "fazeln/github.io"
 title = "Omics Medicine"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
@@ -76,7 +76,7 @@ identifier="about"
 [params]
     viewMorepostLink = "/blog/"
     author = "esmfazel"
-    defaultKeywords = ["Omics Medicine", "MENA", "Collaboration"]
+    defaultKeywords = ["Omics Medicine", "Genomics", "Genetics"]
     mainSections = ["blog"]
     defaultDescription = "Sharing my knowledge and opinion in my blogs"
 
@@ -108,7 +108,7 @@ identifier="about"
     contact_form_ajax = false
 
     about_me = "<p>My Passion for Human Genetics.</p>"
-    copyright = "Copyright (c) 2019, MENA Omics Medicine; all rights reserved."
+    copyright = "Copyright (c) 2019, Omics Medicine; all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"

@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Omics Medicine</title>
-    <link>/</link>
+    <link>/fazeln/github.io/</link>
     <description>Recent content on Omics Medicine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 16 Jan 2021 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/fazeln/github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Health disparity</title>
-      <link>/blog/2021/01/16/health-disparity/</link>
+      <link>/fazeln/github.io/blog/2021/01/16/health-disparity/</link>
       <pubDate>Sat, 16 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2021/01/16/health-disparity/</guid>
+      <guid>/fazeln/github.io/blog/2021/01/16/health-disparity/</guid>
       <description>Does genomics precision lead to more health disparity? The genomics databases used for guideing precision medicine is populated with the Genomics information of people with European ancestry populations. Theses databases are used for biomarker discovery, predicting the pathogenecity of a rare variant. It is widely accepted that theses databases have little use for genomics studies of minororities and other races.
 [ Jyoti Madhusoodanan draws our attention in how precision oncology can increase health disparities.</description>
     </item>
     
     <item>
       <title>Genetic counseling in MENA</title>
-      <link>/blog/2020/01/01/genetic-counseling-in-mena/</link>
+      <link>/fazeln/github.io/blog/2020/01/01/genetic-counseling-in-mena/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2020/01/01/genetic-counseling-in-mena/</guid>
+      <guid>/fazeln/github.io/blog/2020/01/01/genetic-counseling-in-mena/</guid>
       <description>Countries in MENA region have a high prevalence of consanguinous marriage yet there is not much information about how the genetic counsellers are trained in these countries.
 Ormond has provided a comprehensive review of the genetic counseling status in different countries in the world. The paper includes information about Israel and Saudi Arabia. SNPedia is another source for finding some information about genetic couselling in MENA region. And it only had provided links for Israel and Saudi Arabia.</description>
     </item>
     
     <item>
       <title>Genetic misunderstood</title>
-      <link>/blog/2019/12/26/genetic-misunderstood/</link>
+      <link>/fazeln/github.io/blog/2019/12/26/genetic-misunderstood/</link>
       <pubDate>Thu, 26 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2019/12/26/genetic-misunderstood/</guid>
+      <guid>/fazeln/github.io/blog/2019/12/26/genetic-misunderstood/</guid>
       <description>Most of the ordinary people do not know about the genes and chromosomes.
 Definition of genetic literacy presented by Bowling is “sufficient knowledge and appreciation of genetic principles to allow informed decision-making for personal well-being and effective participation in social decisions on genetic issues”.
 There are other studies exploring public understading of genetics. Dr Michael Dougherty has several papers discussing about the chanlleges of public education about genetics. His studies are focued on USA educational system.</description>
@@ -44,20 +44,20 @@ There are other studies exploring public understading of genetics. Dr Michael Do
     
     <item>
       <title>Why sharing photo?!</title>
-      <link>/blog/2019/12/23/patient-photo/</link>
+      <link>/fazeln/github.io/blog/2019/12/23/patient-photo/</link>
       <pubDate>Mon, 23 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2019/12/23/patient-photo/</guid>
+      <guid>/fazeln/github.io/blog/2019/12/23/patient-photo/</guid>
       <description>Obtaining informed consent for photo sharing is one of the challenges that genetic researchers in counteries in MENA region encounter. Most of the parents are reluctant to share their child’ photo.
 The traditional formats of manuscripts - writing about participants in Material and methods section - have led to the wrong culture among the researchers to objectify patients. I witnesses times that the patient’s guardians were handed a consent form explaining the usage of the sample and confidentiality of the patient information including data and photos.</description>
     </item>
     
     <item>
       <title>good collaboration</title>
-      <link>/blog/2019/12/21/good-collaboration/</link>
+      <link>/fazeln/github.io/blog/2019/12/21/good-collaboration/</link>
       <pubDate>Sat, 21 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2019/12/21/good-collaboration/</guid>
+      <guid>/fazeln/github.io/blog/2019/12/21/good-collaboration/</guid>
       <description>Many institutes have policies and guidelines for collborative studies. What other criteria research leaders consider when starting a collaborative studies? There are some criteria in a paper published by Professor Michael Parker in 2016.
 Here a brief note is provided.
  1- Engaging the collaborators in the study conception and the intellectual work. 2- Requesting for the information about the patients and high-quality samples according to a timetable. 3- Ensuring high quality research with excellent proposal.</description>
@@ -65,29 +65,29 @@ Here a brief note is provided.
     
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>/fazeln/github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>/fazeln/github.io/about/</guid>
       <description>Having worked in various capacities, developed excellent organizational and interpersonal skills. My name is Esmat Fazel.
 I studied genetics with a master thesis focused on human genetics. During my studies and through work experience I developed problem-solving, teamwork and creativity skills. I am proficient in R and constantly improving my skills in Python. During a short training program at the University of Queensland I started to learn Perl and obtained experience in using cluster.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>/contact/</link>
+      <link>/fazeln/github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/contact/</guid>
+      <guid>/fazeln/github.io/contact/</guid>
       <description>We are here to help you Are you a researcher wanted to learn about the ongoing collaborative projects in MENA? Do you have some kind of questions about my activities? Are you a patient looking for some information about your disease? I am here to help you with your enquiries. Please feel free to contact me.</description>
     </item>
     
     <item>
       <title>Resources</title>
-      <link>/resources/</link>
+      <link>/fazeln/github.io/resources/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/resources/</guid>
+      <guid>/fazeln/github.io/resources/</guid>
       <description>If you are lookig for some videos to educate the patients The following videos have Creative Commons license and can be used for learning purposes.
 Created by the Jackson Laboratory. What is the difference between genetics and genomics?
 DNA 101: The building blocks of the genome
